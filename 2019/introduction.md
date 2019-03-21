@@ -18,7 +18,7 @@ Taipei Ethereum Meetup is a local community that aims to gather Ethereum develop
 https://github.com/EtherTW/Logo/blob/master/png/logo_en_black.png
 
 # Description / expectations of your Community Room
-Blockchain enpowers a decentralized and trustless world. It is a combination of several fields such as cryptography, consensus algorithm and economic models. Since Satoshi Nakamoto published Bitcoin on 2008, there were countless technology rised and developed. Among those, the advanced technology such as Ethereum Smart Contract, Proof of Stake, Zero-knowledge Proof, and sharding are getting more mature. We would like to sincerely invite submissions from academia, industry and any individual who are intereted in this area. These areas include, but are not limited to:
+Blockchain enpowers a decentralized and trustless world. It is a combination of several fields such as cryptography, consensus algorithm and economic models. Since Satoshi Nakamoto published Bitcoin on 2008, there were countless technology rised and developed. Among those, the advanced technology such as Ethereum Smart Contract, Proof of Stake, Zero-knowledge Proof, and sharding are getting more mature. We would like to sincerely invite submissions from academia, industry and any individual who are intereted in this area. These topics include, but are not limited to:
 - Sharding
 - Performance, Scalability Issues
 - Security and Privacy Issues
